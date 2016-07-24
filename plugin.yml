@@ -2,7 +2,7 @@ name: REDEC
 author: LostTeam - Vietnamese by Adam1609
 version: 1.0
 api: [2.0.0, 1.13.1]
-main: LostTeam\LostHunter
+main: LostTeam\Main
 description: "Clear all entity but player in your server"
 commands:
   h:
